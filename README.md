@@ -2,7 +2,7 @@
 ## Extrair informações do banco de um banco de dados contendo informações sobre o compartilhamento de bicicletas.
 
 ### DESCRITIVO DAS COLUNAS DO DATASET
-  **- rec_id:** índice do registro de locação;
+  **- rec_id:** índice do registro de locação; <br>
   **- datetime:** data;
   **- season:** estação do ano (1: inverno, 2: primavera, 3: verão, 4: outono). Relativo ao
   hemisfério norte;
