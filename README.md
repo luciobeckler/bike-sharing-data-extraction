@@ -1,8 +1,8 @@
 # bike-sharing-data-extraction
-Extrair informações do banco de um banco de dados contendo informações sobre o compartilhamento de bicicletas.
+##Extrair informações do banco de um banco de dados contendo informações sobre o compartilhamento de bicicletas.
 
-DESCRITIVO DAS COLUNAS DO DATASET
-  − rec_id: índice do registro de locação;
+###DESCRITIVO DAS COLUNAS DO DATASET
+  **− rec_id**: índice do registro de locação;
   − datetime: data;
   − season: estação do ano (1: inverno, 2: primavera, 3: verão, 4: outono). Relativo ao
   hemisfério norte;
